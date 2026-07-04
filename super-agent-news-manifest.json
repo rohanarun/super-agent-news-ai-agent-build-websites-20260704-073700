@@ -1,0 +1,59 @@
+{
+  "citations": [
+    "[hostinger.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE95Qy1vMVVPOXUxTDJ5bG1NelpCVWxZZzhVR25QYjZtdm5naGVfVVZrcElZeHpURG9qRThXVHlZOUJJdzBPU2lhckxPSjFlT0ppWndRa2Etdk9ia3hKVkRjMm85UlI)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVWpuMUs0UGdVbG1OZ0RUUEtVRHRXS3hMTGhiUWFZNUZWQXRUZkcyQ24wQUVqdnhidTR5eW4tTmZnelEzSkQyOG83SVdvRUNQYkl4LTdoNlZJT0RSbEt0VThNTlJ6dmxIQU1yejdmWmZNOHNZdWNIbFRiVVBRTWpKU3RrQ3VKUXhOM2FGWmJxS09Mc01sSHU3MlhtYV9NXzJ1Q1E)",
+    "[searchenginejournal.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWx0ei1mNUZIYndpZjhOZlk1ZTJROUgwX1VmYnQ5SDlZZ2xxZWgyTG96aFhDRkpUWXhwWmxxQnN2NUpkZFNmQ3hsNVFBdlRaekl2MzAxbzBSbVlxbnBWLUduOFVhVDctbUVCTjVnVnBiSnBYbWlMTHhNTmF4bnk4NEh4TWhpQUk5ZVFTcS01R2NSeXBwcDFRWVc2cTF3QXAzSmRiRGNLLTZqQQ)"
+  ],
+  "design_plan": "rng=42; hero_lines=2.3; aida=pass; density=grid-auto-flow:dense; contrast=pass; centered_hero=pass",
+  "generated_at": "2026-07-04T07:37:06.768718+00:00",
+  "headline": "AI agent to build websites \u2014 research, code, publish, repeat",
+  "site_brief": {
+    "audience": "founders, operators, and creators who want an AI agent to build and publish websites",
+    "canonical_url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'AI agent to build websites', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI agent build websites",
+      "AI website builder agent",
+      "AI agent GitHub deploy website",
+      "computer use AI website generation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "ai-agent-build-websites",
+    "title": "AI agent to build websites",
+    "use_case_intent": "show how Super can research, generate, push to GitHub, publish, and iterate website assets with real computer-use workflows"
+  },
+  "summary": "An indexable Super use\u2011case page showing how a personal AI agent can build and publish websites end\u2011to\u2011end using real computer use and a reusable computer-use cache."
+}
